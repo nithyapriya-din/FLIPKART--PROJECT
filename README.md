@@ -49,6 +49,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ma
 
 Advanced Configuration
 This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+DEPLOYMENT LINK:https://flipkartmern.vercel.app/
 
 Deployment
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
